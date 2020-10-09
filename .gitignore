@@ -10,3 +10,6 @@
 *.mat
 *.npy
 
+**/results/
+**/models/
+
